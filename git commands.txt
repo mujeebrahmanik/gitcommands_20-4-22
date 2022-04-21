@@ -1,0 +1,7 @@
+git init : initialization
+git status : check untracked file
+git add file name (git add -A :for add all untracked files)
+git commit -m"message"
+git log : for commit history
+git checkout commit id : for going back to respective commit
+git checkout master : for latest
