@@ -5,3 +5,6 @@ git commit -m"message"
 git log : for commit history
 git checkout commit id : for going back to respective commit
 git checkout master : for latest
+git push repository name
+git add remote
+git remote -v
